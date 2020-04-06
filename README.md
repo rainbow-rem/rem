@@ -1,2 +1,2 @@
 # rem
-HarvardCS50 Calss
+HarvardCS50 Class
